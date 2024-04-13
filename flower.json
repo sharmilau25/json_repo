@@ -1,5 +1,6 @@
 [{
 "id":1,"title":"gerbera","description":"decoration","unitprice":20,"quantity":4000},
-"id":2,"title":"rose","description":"decoration","unitprice":20,"quantity":4000},
-"id":3,"title":"lily","description":"decoration","unitprice":20,"quantity":4000}
+{"id":2,"title":"rose","description":"decoration","unitprice":20,"quantity":5000},
+{"id":3,"title":"lily","description":"decoration","unitprice":15,"quantity":3400},
+{"id":4,"title":"jasmine","description":"decoration","unitprice":10,"quantity":4000},
 ]
